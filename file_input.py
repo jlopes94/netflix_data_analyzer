@@ -1,6 +1,7 @@
 import csv
 
 # handles the files downloaded from netflix and makes them into readable data
+
 #
 # SUBSCRIPTION HISTORY ####################################
 sub_fields = []
