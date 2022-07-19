@@ -1,0 +1,4 @@
+This folder is where the code pulls the netflix data from! For now, this is my actual data as
+it reveals no private information
+
+Add your "ViewingActivity.csv" and "Profiles.csv" to this folder (user_data).
